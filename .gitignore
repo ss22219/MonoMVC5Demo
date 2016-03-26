@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/MonoMVC5Demo/bin
+/MonoMVC5Demo/obj
+/MonoMVC5Demo/Properties/PublishProfiles
+/packages
+*.suo
+*.user
+/MonoMVC5Demo/Project_Readme.html
